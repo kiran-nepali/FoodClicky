@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8CEA0EDF-4D3B-4721-E114-1968096EC446}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Target.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Target.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="42" Column="29" />
+      <File FileName="Assets/Scripts/DifficultyButton.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="74bd9409-4368-4100-840c-bd59c85bb24e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
